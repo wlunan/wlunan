@@ -12,11 +12,10 @@ AI Graduate Student | Java Backend Developer | LLM Application Explorer
 
 ## 🚀 About Me
 
-- 🎓 AI Graduate Student (Focus on Applied AI)
+- 🎓 AI Graduate Student 
 - 💻 Strong in Java Backend Development
 - 🤖 Exploring LLM / Spring AI / AI Application Development
-- 📌 Goal: Become an AI Application Engineer
-- 🌱 Currently improving System Design & Distributed Systems
+- 📌 Goal: Become an AI Application Engineer|Java Backend Development
 
 ---
 
