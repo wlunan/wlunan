@@ -1,22 +1,16 @@
-<h1 align="center">Hi 👋 I'm Lunan</h1>
+# Hi 👋 I'm Lunan
 
-<p align="center">
-AI Graduate Student | Java Backend Developer | LLM Application Explorer
-</p>
+Open Source Enthusiast | Full-Stack Developer | AI Application Builder
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI+Applications+with+Java;Exploring+LLM+Engineering;Backend+Developer+in+Progress" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Full-Stack+AI+Apps;Exploring+LLMs+in+Real+Projects;Contributing+to+Open+Source">
 
 ---
-
 ## 🚀 About Me
-
-- 🎓 AI Graduate Student 
-- 💻 Strong in Java Backend Development
-- 🤖 Exploring LLM / Spring AI / AI Application Development
-- 📌 Goal: Become an AI Application Engineer | Java Backend Development
-
+- 💡 Passionate about **open source**, **artificial intelligence**, and **building end-to-end applications**
+- 🤖 Exploring **Large Language Models (LLMs)** — from agents and RAG to deployment in real user-facing products
+- 💻 Full-stack developer: strong in **Java backend**, comfortable with **Vue frontend**, and enjoy connecting the two to create seamless experiences
+- 🛠 Love turning ideas into working prototypes — especially when AI is involved!
+- 🌱 Constantly learning, building in public, and contributing back to the community
 ---
 
 ## 🛠 Tech Stack
