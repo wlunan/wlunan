@@ -18,10 +18,6 @@ Open Source Enthusiast | Full-Stack Developer | AI Application Builder
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,maven,redis,mysql,docker,linux,git,python,pytorch,vue,idea,pycharm,vscode">
 
 ---
-## 📌 Featured Projects
-*(Check out my repos — I build AI-powered apps and open-source tools across the stack!)*
-
----
 ## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=wlunan&theme=default&hide_border=true">
