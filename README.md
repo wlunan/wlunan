@@ -20,4 +20,13 @@ AI Application Builder · Full-Stack Developer
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=wlunan&theme=default&hide_border=true">
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=wlunan&theme=default&hide_border=true">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wlunan&theme=default">
+    </td>
+  </tr>
+</table>
