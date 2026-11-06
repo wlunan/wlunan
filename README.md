@@ -11,7 +11,6 @@ I build AI-native apps, Obsidian plugins, and small utilities. Comfortable acros
 - **[refine-loop](https://github.com/wlunan/refine-loop)** — a verifiable, recoverable, human-in-the-loop code agent workbench built with LangGraph + FastAPI + Vue.
 - **[agent-forge](https://github.com/wlunan/agent-forge)** — composable, tool-calling agent experiments (Python).
 - **[llm-langchain-learn](https://github.com/wlunan/llm-langchain-learn)** — Jupyter notebooks learning LangChain / LLM app patterns.
-- **interview-buddy** *(private)* — Python-based interview assistant (AGPL).
 - **PrepLoop** *(private)* — interview prep loop tooling (TypeScript).
 - **llm-app-learn** *(private)* — LLM app learning repo (Jupyter).
 
