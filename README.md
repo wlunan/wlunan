@@ -1,70 +1,71 @@
-<div align="center">
+# Hi, I'm Lunan
 
-# Hi, I'm Lunan 👋
+AI application developer / full-stack engineer. CS grad student.
 
-### AI Application Builder · Full-Stack Developer
+I build AI-native apps, Obsidian plugins, and small utilities. Comfortable across the stack: Java/Spring backend, Vue/TypeScript frontend, Python for agents and automation, Go for small desktop tools.
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+things+with+AI+%26+code;LLMs+%C2%B7+Agents+%C2%B7+Full-Stack;Explore+%C2%B7+Build+%C2%B7+Ship">
+## Projects
 
-<br>
+### 🤖 AI & Agents
 
-> **Turning ideas into things that actually work.**
+- **[refine-loop](https://github.com/wlunan/refine-loop)** — a verifiable, recoverable, human-in-the-loop code agent workbench built with LangGraph + FastAPI + Vue.
+- **[agent-forge](https://github.com/wlunan/agent-forge)** — composable, tool-calling agent experiments (Python).
+- **[llm-langchain-learn](https://github.com/wlunan/llm-langchain-learn)** — Jupyter notebooks learning LangChain / LLM app patterns.
+- **interview-buddy** *(private)* — Python-based interview assistant (AGPL).
+- **PrepLoop** *(private)* — interview prep loop tooling (TypeScript).
+- **llm-app-learn** *(private)* — LLM app learning repo (Jupyter).
 
-</div>
+### 🧩 Obsidian & Dev Tools
 
----
+- **[MdAssetSync](https://github.com/wlunan/MdAssetSync)** — Obsidian plugin: import external Markdown with local images resolved from their original folders; now published in the Obsidian community store.
+- **[vault-cleaner](https://github.com/wlunan/vault-cleaner)** — Obsidian plugin: visual dashboard for cleaning orphaned files and attachments, with protection rules.
+- **[vault-note](https://github.com/wlunan/vault-note)** — another Obsidian note-related plugin (TypeScript).
+- **[stock-board](https://github.com/wlunan/stock-board)** — lightweight Go + Win32 floating ticker for A-shares / ETFs / international futures / gold; single .exe, opacity control, hot reload.
+- **[picture-bed](https://github.com/wlunan/picture-bed)** / **[Image](https://github.com/wlunan/Image)** — personal image hosting.
 
-## 🧭 About
+### ⚙️ Automation & Data
 
-I enjoy building things — from **AI-powered applications** and **developer tools** to small products that solve real problems.
+- **[jobworthy](https://github.com/wlunan/jobworthy)** — aggregator of 800+ company job postings, auto-updated daily.
+- **[wxread-panel](https://github.com/wlunan/wxread-panel)** — WeChat Reading auto-reader adapted for Qinglong / Baihu scheduled-task panels (MIT).
+- **[auto-login-campus](https://github.com/wlunan/auto-login-campus)** / **[HtuAutoLogin](https://github.com/wlunan/HtuAutoLogin)** — one-tap campus network login scripts.
+- **[mianshiya-spider](https://github.com/wlunan/mianshiya-spider)** *(private)* — interview question spider.
+- **qz-data-forge** *(private)* — recruitment data processing pipeline (Python).
+- **[scrape-wallpapers](https://github.com/wlunan/scrape-wallpapers)** — wallpaper scraper (Python).
 
-Currently exploring **LLMs, RAG, Agents, and AI-native workflows**, while working across the full stack whenever an idea needs it.
+### 🌐 Web & Frontend
 
-> Technology is a tool. The problem comes first.
+- **[nuxt-portfolio-studio](https://github.com/wlunan/nuxt-portfolio-studio)** — open-source developer homepage template: digital business card + portfolio entry with a visual content backend (MIT).
+- **[day-worth](https://github.com/wlunan/day-worth)** — break your salary down to per-day value, so "time is money" stops being a metaphor (MIT).
+- **[ip-track](https://github.com/wlunan/ip-track)** — minimal page for tracking and visualizing IP geolocation.
+- **[shadow-chat](https://github.com/wlunan/shadow-chat)** / **[wuzhi](https://github.com/wlunan/wuzhi)** / **[sesame-team](https://github.com/wlunan/sesame-team)** — Vue experiments.
+- **[random-dance-feed](https://github.com/wlunan/random-dance-feed)** *(private)* — PHP feed with a Vercel deployment.
 
----
+### 🔐 Security & Steganography
 
-## 🧩 Stack
+- **[awesome-steganography](https://github.com/wlunan/awesome-steganography)** — curated steganography resources list.
+- **[my_stego](https://github.com/wlunan/my_stego)** — my first image steganography project (Python).
+- **wlan_sec_test_tool** *(private)* — WiFi security testing tooling.
+- **ls-stego / steg_1 / image-hide-plugin** *(private)* — LSB steganography experiments.
 
-<div align="center">
+### 📚 Java / Coursework
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,java,spring,typescript,javascript,react,vue,nodejs,mysql,redis,docker,linux,git,vscode&perline=15">
+- **[tanwei](https://github.com/wlunan/tanwei)** — Java project.
+- **[brand-case](https://github.com/wlunan/brand-case)** — JavaWeb course final project.
+- **[Competition](https://github.com/wlunan/Competition)** — competition code (Java).
+- **hmall / heima-ai / ai-assistant** *(private)* — Java backend learning projects.
 
-</div>
+## Stack
 
-<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,java,spring,typescript,javascript,vue,react,nodejs,go,mysql,redis,docker,linux,git,vscode&perline=16" />
 
-<div align="center">
+## GitHub Stats
 
-`AI Applications` · `LLM` · `RAG` · `Agents` · `Full-Stack` · `Developer Tools`
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=wlunan&theme=transparent&hide_border=true">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wlunan&theme=transparent">
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### Build something useful. Learn something new.
-
-<sub>Thanks for stopping by.</sub>
-
-</div>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=wlunan&theme=transparent&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wlunan&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wlunan&style=flat&color=6c63ff" />
+</p>
